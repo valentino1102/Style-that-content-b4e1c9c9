@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background: orange;
+    margin: 15px;
+}
+
+.container {
+    background-color: rgb(255, 197, 88);
+}
+
+.welcome h1 {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+}
+
+.content>.news {
+    flex: 1;
+}
